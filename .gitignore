@@ -1,0 +1,5 @@
+# Ignore Python Compile Files
+*.pyc
+
+# Ignore notebook checkpoints
+*.ipynb_checkpoints
