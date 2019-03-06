@@ -1,6 +1,11 @@
 # Find Turkey
 
-This is the project for the MSBD-5012 course. In this project, we will train a turkey by the techniques of Reinforcement Learning (Q-Learning) to find the HKUST Logo in the maze.
+This is the project for the MSBD-5012 course. In this project, we will train an agent by the techniques of Reinforcement Learning (Q-Learning) to find the optimal path to the HKUST Logo in the maze. 
+
+For further demonstration, please refer to the Youtube Link: [HKUSTurkey](https://www.youtube.com/watch?v=fMvjmkVorFg)
+
+The following picture shows the overview of this project:
+![Overview](./Overview.png)
 
 # Team Member
 
